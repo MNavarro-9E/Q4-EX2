@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-image: url('https://media.philstar.com/images/articles/dingdong-fantastica_2018-12-05_13-27-05.jpg');
+    background-size: cover;
+}
+
+.card {
+    border-radius: 20px;
+    border: none;
+}
+
+.btn {
+    width: 45%;
+}
